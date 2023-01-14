@@ -15,10 +15,6 @@ Free yourself from the grasp of others
 
 Data should be sovereign, subjugated to no man
 
-All local, oranically queried, no rpc provider necessary
-
-Robrox is engagement farming masked as a hackathon dressed as exploratory data science
-
 ### Our work
 
 https://twitter.com/wjvill/status/1613988385840070657

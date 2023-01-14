@@ -6,7 +6,7 @@ He could hear the diskheads flying as his RAID array as the cache filled with st
 
 What if that was the last thing he ever heard, before all traces of his legacy were forever wiped 
 
-![image](https://user-images.githubusercontent.com/16990562/212441889-399d10b4-b7d0-4b21-b162-d3e306250664.png)
+![image](https://user-images.githubusercontent.com/16990562/212442434-7998a625-1b7c-406d-90d6-896c2d5aaac5.png)
 
 Free yourself from the grasp of others
 

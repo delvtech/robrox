@@ -25,7 +25,7 @@ function power_glove {
     echo $1
     head -n -$num_lines $data_dir/results$1.txt >$data_dir/plot$1.txt
     jp <$data_dir/plot$1.txt --input csv -xy '[*][0,1]'
-    # rm $data_dir/plot$1.txt
+    rm $data_dir/plot$1.txt
 }
 
 # call the function
